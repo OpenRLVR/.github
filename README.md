@@ -23,5 +23,6 @@ Tl;dr: we should collectively build an OSS ecosystem that encompass:
 * more
 
 An initial high level picture
+![high level architercture of Open RLVR scope](https://github.com/OpenRLVR/.github/blob/main/arch-overview.png) 
 
 
