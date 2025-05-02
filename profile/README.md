@@ -1,4 +1,4 @@
-# Open Source Collective For Reinforcement Learning with Verifiable Rewards
+# Open Source Collective For Reinforcement Learning with Generalized Rewards
 
 ## Motivation
 
@@ -6,7 +6,7 @@
 
 Since the dawn of open source (weights) LLMs, open collaboration has becomes a embrassing pain point for the community. Although we have HuggingFace to share the model weights and datasets, collaboration was never a big thing for pre-training + RLHF era, with exception of mergekit and nanoGPT runs.
 
-DeepSeek R1’s release kickstarted a new era of totally decoupled pre-training/post-training, where the latter has a signature of flywheel suited for OSS collaboration. Never before happened, there is actual need for open collaboration to build an OSS community for the collective good of RLVRs.
+DeepSeek R1’s release kickstarted a new era of totally decoupled pre-training/post-training, where the latter has a signature of flywheel suited for OSS collaboration. Never before happened, there is actual need for open collaboration to build an OSS community for the collective good of RLGRs.
 
 ### The Idea
 
@@ -23,7 +23,7 @@ Tl;dr: we should collectively build an OSS ecosystem that encompass:
 * more
 
 An initial high level picture
-![high level architercture of Open RLVR scope](https://github.com/OpenRLVR/.github/blob/main/arch-overview.png) 
+![high level architercture of Open RLGR scope](https://github.com/OpenRLVR/.github/blob/main/arch-overview.png) 
 
 
 
